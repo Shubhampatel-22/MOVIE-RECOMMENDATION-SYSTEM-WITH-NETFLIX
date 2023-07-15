@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+}
+
+.App{
+  overflow-y: hidden;
+  overflow-x: hidden;
+  background-color: #111;
+  width: 100%;
+}
+
+.app::-webkit-scrollbar{
+  display: none;
+}
